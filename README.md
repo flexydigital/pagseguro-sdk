@@ -1,5 +1,5 @@
-Biblioteca de integração PagSeguro para PHP
-===========================================
+Biblioteca de integração PagSeguro para PHP -- Cópia da Flexy da versão 2.5.0
+=============================================================================
 
 [![Code Climate](https://codeclimate.com/github/pagseguro/php/badges/gpa.svg)](https://codeclimate.com/github/pagseguro/php)
 
