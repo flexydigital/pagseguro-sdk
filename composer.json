@@ -1,7 +1,7 @@
 {
     "name": "flexydigital/pagseguro-sdk",
     "description": "Fork da biblioteca de integração com o PagSeguro, com fixes. Mantido por Flexydigital.",
-    "license": "Apache License 2.0",
+    "license": "Apache-2.0",
     "autoload": {
         "classmap": ["source/PagSeguroLibrary"]
     },
